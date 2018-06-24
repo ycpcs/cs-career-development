@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# Welcome to Computer Science Career Developemnt
+# Welcome to Computer Science Career Development
 
 This is the website for Computer Science Career Development at York College of PA
 
