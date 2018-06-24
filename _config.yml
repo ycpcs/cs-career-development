@@ -1,0 +1,13 @@
+baseurl: "/cs-career-development"
+
+# Don - Comment out this on Windows (to preview)
+markdown: kramdown
+
+# Don - Comment out this on Windows (to preview)
+highlighter: rouge
+
+coursename: "CS Career Development"
+
+# Don - Comment out these on Windows (to preview)
+rdiscount:
+  extensions: [smart]
